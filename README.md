@@ -1,6 +1,6 @@
 ## Hi! I am Satyadeep! 👋
 👨‍💻
-Being in this journey of coding, I was fascinated with Technology. It has made me evolved. As from my 12th to till now from nothing to communicate as of with 'AI'.!
+Being in this journey of coding, I was fascinated with Technology. It has made me evolved.
 
 <!--
 **deep447/deep447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
