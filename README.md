@@ -1,6 +1,6 @@
-![my favicon](https://github.com/user-attachments/assets/696480a8-2b34-4186-86ea-e4f89af2de70)
+![content creation](https://github.com/user-attachments/assets/1e3c956e-31c3-4a5e-adb0-e7c9a7991277)
 
-## Hi! I am Satyadeep! 👋
+## 
 Being in this journey of coding, I was fascinated with Technology. It has made me evolved.
 I am novice to coding till now. but AI is helping me a bit.
 
