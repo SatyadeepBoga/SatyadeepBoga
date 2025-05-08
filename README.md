@@ -1,5 +1,6 @@
 
-![content creation 0](https://github.com/user-attachments/assets/61ce996f-8cd7-4efe-8b79-b1d63b6d17bc)
+![Untitled](https://github.com/user-attachments/assets/5eb2f7ee-da1a-461b-b29f-d88ca5369921)
+
 
 ## 
 Being in this journey of coding, I was fascinated with Technology. It has made me evolved.
