@@ -2,6 +2,7 @@
 👨‍💻
 Being in this journey of coding, I was fascinated with Technology. It has made me evolved.
 I am novice to coding till now. but AI is helping me a bit.
+
 * I have learned 'C' in my college.
 * I have learned HTML, CSS!
 * I am currently working on Web developement projects.
