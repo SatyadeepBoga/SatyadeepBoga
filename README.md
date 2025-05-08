@@ -1,7 +1,10 @@
 ## Hi! I am Satyadeep! 👋
 👨‍💻
 Being in this journey of coding, I was fascinated with Technology. It has made me evolved.
-
+I am novice to coding till now. but AI is helping me a bit.
+* I have learned 'C' in my college.
+* I have learned HTML, CSS!
+* I am currently working on Web developement projects.
 <!--
 **deep447/deep447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
